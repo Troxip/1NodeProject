@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../complete-node-bootcamp-master/4-natours/starter/dev-data"
+		},
+		{
+			"path": "../../../complete-node-bootcamp-master/4-natours/starter/public"
+		}
+	],
+	"settings": {}
+}
